@@ -1,0 +1,22 @@
+.title {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(131, 99, 61);
+    background: linear-gradient(to left, orange, white) ;
+    animation: gradient-animation 10s ease infinite;
+}
+
+h2 {
+    text-align: center;
+    color: rgb(131, 99, 61);
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+footer {
+    color: darkorange;
+    text-align: center;
+}
